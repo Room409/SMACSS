@@ -1,0 +1,17 @@
+body {
+  background: red;
+}
+
+h1 {
+  color: white;
+}
+
+footer {
+  background-color: black;
+  height: 500px;
+  width: 100%;
+}
+
+article {
+  background: green;
+}/*# sourceMappingURL=styles.css.map */
